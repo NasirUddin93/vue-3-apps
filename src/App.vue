@@ -2,7 +2,7 @@
 <AppHeader/> 
   <div class="w-full flex">
     <router-view></router-view>
-   <!-- <DcHeros/> -->
+   <DcHeros/>
    <!-- <Calendar/> -->
   </div>
    <AppFooter/>
