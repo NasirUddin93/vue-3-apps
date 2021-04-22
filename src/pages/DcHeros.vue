@@ -1,3 +1,4 @@
+
 <template>
  <div class="m-auto"> 
       
@@ -46,7 +47,6 @@ export default {
         };
     },
     
-
   methods:{
     addHero(){
       if(this.newHero !== ""){
@@ -62,5 +62,4 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-
 </style>
